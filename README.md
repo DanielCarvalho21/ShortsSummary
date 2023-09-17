@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 💻 Como usar
 
-    Clone o projeto:  git clone https://github.com/lmiguelm/upload-ai.git
+    Clone o projeto:  git clone https://github.com/DanielCarvalho21/ShortsSummary.git
 
 
     Entre na pasta do projeto: cd upload-ai
