@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "web": "vite",
-    "server": "node --watch --no-warnings server/index.js"
+    "server": "node --watch --no-warnings server/index.js",
+    "build": "node server/index.js"
   },
   "dependencies": {
     "@xenova/transformers": "^2.6.0",
