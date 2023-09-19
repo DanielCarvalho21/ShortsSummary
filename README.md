@@ -19,10 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
     Clone o projeto:  git clone https://github.com/DanielCarvalho21/ShortsSummary.git
 
-
-    Entre na pasta do projeto: cd upload-ai
-
-
     Baixe as dependências:  yarn || npm install
 
 
